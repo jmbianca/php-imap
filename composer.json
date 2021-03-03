@@ -1,5 +1,5 @@
 {
-    "name": "jmbianca/php-imap",
+    "name": "php-imap/php-imap",
     "description": "Manage mailboxes, filter/get/delete emails in PHP (supports IMAP/POP3/NNTP)",
     "keywords": [
         "PHP",
@@ -9,13 +9,13 @@
         "mailbox",
         "receive emails"
     ],
-    "homepage": "https://github.com/jmbianca/php-imap",
+    "homepage": "https://github.com/barbushin/php-imap",
     "license": "MIT",
     "type": "library",
     "authors": [
         {
             "name": "Sergey Barbushin",
-            "homepage": "https://linkedin.com/in/barbushin",
+            "homepage": "http://linkedin.com/in/barbushin",
             "email": "barbushin@gmail.com"
         }
     ],
